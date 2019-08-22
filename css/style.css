@@ -61,7 +61,7 @@
 	a
 	{
 		text-decoration: none;
-		color: #80BA8E;
+		color: #b0e0e6;
 	}
 	
 	a:hover
@@ -820,7 +820,7 @@
 	
 		#logo h1
 		{
-			color: #bbffff;
+			color: #b0e0e6;
 		}
 	
 		#logo a
@@ -830,7 +830,7 @@
 			font-weight: 300;
 			line-height: 1em;
 			font-size: 7em;
-			color: #bbffff;
+			color: #b0e0e6;
 			letter-spacing: -0.05em;
 			margin: 0 0 0.125em 0;
 		}
@@ -838,7 +838,7 @@
 		#logo span
 		{
 			font-size: 1.4em;
-			color: #bbffff;
+			color: #b0e0e6;
 		}
 
 /*********************************************************************************/
