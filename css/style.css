@@ -167,6 +167,10 @@
 			display: inline-block;
 		}
 		
+			.image.round img {
+			border-radius: 100%;
+			}
+
 			.image img
 			{
 				display: block;
@@ -204,6 +208,7 @@
 					margin: 0 auto;
 					width: auto;
 				}
+
 
 	/* Lists */
 
