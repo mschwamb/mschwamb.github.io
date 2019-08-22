@@ -170,8 +170,8 @@
 			.image.round img {
 			border-radius: 100%;
 		      	text-align: center;
-			width: 20%;
-    			height: 20%;
+			width: 200px;
+    			height: 200px;
     			object-fit: contain;
 
 			}
