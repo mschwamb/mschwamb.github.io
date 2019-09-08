@@ -462,6 +462,14 @@
 			display: block;
 		}
 
+		.image.round img {
+			border-radius: 100%;
+		      	text-align: center;
+			width: 200px;
+    			height: 200px;
+    			object-fit: contain;
+
+			}
 		.image.left {
 			float: left;
 			padding: 0 1.5em 1em 0;
